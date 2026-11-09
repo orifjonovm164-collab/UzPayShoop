@@ -6,9 +6,9 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
     envVars:
-      - key: BOT_TOKEN
+      - key: 9078056651:AAHZkG0d0Y6SDQTEhSfe4XhPWNwpeY2ZrG0
         sync: false
-      - key: ADMIN_ID
+      - key: 8091650597
         sync: false
-      - key: SUPPORT_USERNAME
+      - key: @Dvng_uzz
         sync: false
